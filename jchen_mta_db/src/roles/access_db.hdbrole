@@ -1,0 +1,8 @@
+{
+	"role": {
+		"name": "access_jchen_mtb_db",
+		"schema_privileges": [{
+			"privileges": ["SELECT"]
+		}]
+	}
+} 
